@@ -155,13 +155,10 @@ button:hover {
     color: rgba(0, 173, 181, 1);
     background-color: #434543;
 }
+
 .fa-telegram {
     font-size: 30px;
     padding-left: 9px;
-}
-.tlg {
-    padding-top: 7px;
-    padding-left: 7px;
 }
 
 .envelope {
