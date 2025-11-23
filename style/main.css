@@ -148,8 +148,17 @@ button {
     align-items: center;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
     padding-left: 32px;
+    cursor: pointer;
 }
 
+button:hover {
+    color: rgba(0, 173, 181, 1);
+    background-color: #434543;
+}
+.fa-telegram {
+    font-size: 30px;
+    padding-left: 9px;
+}
 .tlg {
     padding-top: 7px;
     padding-left: 7px;
